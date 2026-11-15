@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Jurnal Trading">
+  <rect width="512" height="512" rx="96" fill="#0e1116"/>
+  <rect x="96" y="112" width="320" height="288" rx="28" fill="#1a2029" stroke="#2a3341" stroke-width="8"/>
+  <path d="M136 336 L200 264 L248 300 L296 216 L336 248" fill="none" stroke="#4ea1ff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="336" cy="248" r="16" fill="#31c48d"/>
+  <rect x="136" y="152" width="120" height="16" rx="8" fill="#9aa8ba"/>
+  <rect x="136" y="184" width="72" height="12" rx="6" fill="#2a3341"/>
+</svg>
